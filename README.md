@@ -1,9 +1,10 @@
-- 👋 Hi there, I’m Joseph. Just your average guy trying to make an impact on the world.
-- 👀 I'm interested in a variety of things; the thing that catches my interest the most right now is software development. Though I still love sports, board games, video games, reading, and art!
-- 🌱 As you might have guessed from the previous statement, I’m currently learning computer science fundamentals, but at UW-Whitewater. I'm also learning about how to make a game in Unity too, just for a personal project of mine.
+- 👋 Hi there, I’m Joseph, just a guy making his way through life.
+- 👀 I'm interested in a variety of things; Those things include: Board games, video games, reading, art, and game development!
+- 🌱 I’m currently learning computer science fundamentals, but at UW-Whitewater. I'm also learning about how to make a game in Unity too, just for a personal project of mine.
 - 💞️ I’m looking to collaborate on things that align with my interests (mainly software development though)
+- I'd love to work on anything related to game development or art. I would also like to work on writing and story boards too, though I'll have to admit, I have no idea how to do that (but I'd love to learn!)
 - 📫 If you're looking to reach me, you can contact me at jcy_y2000@hotmail.com
-- 📫 For business inquiries, please contact me at josephcyang4459@outlook.com instead.
+- 📫 Though, for professional inquiries, contact me at josephcyang4459@outlook.com
 
 <!---
 jcy2000/jcy2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
