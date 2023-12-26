@@ -8,6 +8,7 @@ When I'm not working, you can find me exploring my hobbies, such as video games,
 
 If you're looking to reach me, you can contact me at josephcyang4459@outlook.com
 
+Also check out my itch.io!
 https://gojoe00.itch.io
 
 <!---
